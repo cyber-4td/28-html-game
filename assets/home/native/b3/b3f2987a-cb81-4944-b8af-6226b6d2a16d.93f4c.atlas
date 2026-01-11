@@ -1,0 +1,82 @@
+b3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bg
+  rotate: true
+  xy: 340, 558
+  size: 560, 214
+  orig: 562, 216
+  offset: 1, 1
+  index: -1
+bin
+  rotate: true
+  xy: 556, 770
+  size: 176, 138
+  orig: 178, 140
+  offset: 1, 1
+  index: -1
+bin_1
+  rotate: true
+  xy: 556, 611
+  size: 157, 128
+  orig: 159, 130
+  offset: 1, 1
+  index: -1
+bin_2
+  rotate: true
+  xy: 556, 948
+  size: 170, 141
+  orig: 172, 143
+  offset: 1, 1
+  index: -1
+popup
+  rotate: true
+  xy: 817, 460
+  size: 812, 385
+  orig: 814, 387
+  offset: 1, 1
+  index: -1
+shadown
+  rotate: false
+  xy: 2, 1120
+  size: 813, 152
+  orig: 816, 154
+  offset: 1, 1
+  index: -1
+tree
+  rotate: true
+  xy: 340, 164
+  size: 294, 338
+  orig: 294, 338
+  offset: 0, 0
+  index: -1
+tree_1
+  rotate: false
+  xy: 2, 2
+  size: 294, 338
+  orig: 294, 338
+  offset: 0, 0
+  index: -1
+tree_2
+  rotate: true
+  xy: 680, 164
+  size: 294, 338
+  orig: 294, 338
+  offset: 0, 0
+  index: -1
+tree_3
+  rotate: false
+  xy: 2, 731
+  size: 336, 387
+  orig: 336, 387
+  offset: 0, 0
+  index: -1
+tree_4
+  rotate: false
+  xy: 2, 342
+  size: 336, 387
+  orig: 336, 387
+  offset: 0, 0
+  index: -1

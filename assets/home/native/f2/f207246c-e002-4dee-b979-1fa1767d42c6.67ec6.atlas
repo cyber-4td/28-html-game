@@ -1,0 +1,40 @@
+Gift.png
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eye
+  rotate: true
+  xy: 25, 28
+  size: 17, 19
+  orig: 19, 21
+  offset: 1, 1
+  index: -1
+hand
+  rotate: true
+  xy: 2, 28
+  size: 17, 21
+  orig: 19, 23
+  offset: 1, 1
+  index: -1
+pig
+  rotate: false
+  xy: 2, 47
+  size: 80, 79
+  orig: 82, 81
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 84, 19
+  size: 49, 29
+  orig: 51, 31
+  offset: 1, 1
+  index: -1
+shipper
+  rotate: false
+  xy: 84, 70
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1

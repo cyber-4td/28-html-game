@@ -1,0 +1,96 @@
+b4.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+axe
+  rotate: false
+  xy: 644, 227
+  size: 93, 102
+  orig: 93, 102
+  offset: 0, 0
+  index: -1
+image
+  rotate: false
+  xy: 644, 611
+  size: 151, 407
+  orig: 151, 407
+  offset: 0, 0
+  index: -1
+popup
+  rotate: true
+  xy: 255, 204
+  size: 814, 387
+  orig: 814, 387
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 644, 331
+  size: 237, 278
+  orig: 237, 278
+  offset: 0, 0
+  index: -1
+rock_1
+  rotate: false
+  xy: 825, 51
+  size: 237, 278
+  orig: 237, 278
+  offset: 0, 0
+  index: -1
+rock_2
+  rotate: false
+  xy: 797, 741
+  size: 237, 277
+  orig: 237, 277
+  offset: 0, 0
+  index: -1
+rock_3
+  rotate: false
+  xy: 883, 462
+  size: 237, 277
+  orig: 237, 277
+  offset: 0, 0
+  index: -1
+rock_5
+  rotate: true
+  xy: 611, 20
+  size: 182, 212
+  orig: 182, 212
+  offset: 0, 0
+  index: -1
+rock_6
+  rotate: false
+  xy: 390, 4
+  size: 219, 198
+  orig: 219, 198
+  offset: 0, 0
+  index: -1
+rock_7
+  rotate: true
+  xy: 2, 2
+  size: 190, 172
+  orig: 190, 172
+  offset: 0, 0
+  index: -1
+shadown
+  rotate: true
+  xy: 2, 194
+  size: 824, 251
+  orig: 824, 251
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 1036, 841
+  size: 177, 148
+  orig: 177, 148
+  offset: 0, 0
+  index: -1
+tree_1
+  rotate: false
+  xy: 611, 4
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1

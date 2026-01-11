@@ -1,0 +1,47 @@
+E_Range.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 71, 2
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+w1_Range_1
+  rotate: false
+  xy: 83, 180
+  size: 46, 63
+  orig: 46, 70
+  offset: 0, 7
+  index: -1
+w2_Range_1
+  rotate: false
+  xy: 2, 158
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+w3_Range_1
+  rotate: false
+  xy: 2, 78
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+w4_Range_1
+  rotate: true
+  xy: 2, 2
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+w5_Range_1
+  rotate: false
+  xy: 78, 93
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,21 @@
+
+?eATK	ATK_SPEED	ATK_RANGEDAMAGE_PER_METER"攻击*攻击
+SfCRIT_CHANCECRIT_PER�"暴击*-攻击附加暴击效果，伤害概率增加
+YgSLOW_CHANCESLOW_PER�"减速*3攻击附加减速效果，降低敌人移动速度
+ShDOUBLE_SHOT_CHANCEDOUBLE_SHOT_PER�"双倍子弹*对同一目标射击2次
+eiMULTI_SHOT_CHANCEMULTI_SHOT_TARGET�'"多倍目标**同一时间锁定多个敌人进行射击
+?jSTUN_CHANCE	STUN_TIME�N"眩晕*射击附加眩晕效果
+IkKNOCK_BACK_CHANCE�}"击退*'射击附加击退效果，击退敌人
+RlDEAD_HIT_CHANCE��"致命一击*+对小怪可以一击必杀（boss无效）
+�HPREGEN"生命*生命
+D�DAMAGE_RESISTANCE�"伤害减免*堡垒受到的伤害减少
+8�DODGE�"闪避*!堡垒可以闪避敌人的攻击
+c�DAMAGE_RETURN_CHANCEDAMAGE_RETURN_PER�"伤害反弹*$堡垒受到伤害反弹部分伤害
+W�	LIFE_LEAK�'"生命偷取*6堡垒可以从攻击造成的伤害吸取部分生命
+S�
+WORKER_NUMWORKER_MOVE_SPEED"工人*'招募更多工人在战场收集资源
+j�COIN_PER_WAVECOIN_PER_50_KILL�"硬币获得*3每一波和击杀一定数量敌人将获得硬币
+k�GOLD_PER_WAVEGOLD_PER_100_KILL�"金币获得*3每一波和击杀一定数量敌人将获得金币
+8�	BOSS_GOLD�"
+Boss金币*击杀Boss将获得金币
+8�DISCOUNT�'"硬币打折*硬币消耗可以打折

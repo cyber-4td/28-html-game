@@ -1,0 +1,52 @@
+
+Oe	攻击力 (d2ATK_ADD_PER:2KdR&攻击力+<color=#0fffff><v1>%</color>
+Zf攻击速度 (d2ATKSPEED_ADD_PER:
+2FdR)攻击速度+<color=#0fffff><v1>%</color>
+\g生命值上限 (d2LIFE_ADD_PER:2KdR,生命最大值+<color=#0fffff><v1>%</color>
+ch生命恢复速度 (d2REGEN_ADD_PER:
+2FdR/生命恢复速度+<color=#0fffff><v1>%</color>
+[i攻击范围 (d2ATK_RANGE_ADD_PER:
+R)攻击范围+<color=#0fffff><v1>%</color>
+Rj	暴击率 (d2CRIT_CHANCE:
+(2R)暴击概率+<color=#0fffff><v1>%</color>
+Rk暴击伤害 (d2CRIT_PER:(<PdR)暴击伤害+<color=#0fffff><v1>%</color>
+Il闪避 (d2DODGE:
+(2R)闪避概率+<color=#0fffff><v1>%</color>
+mm追加攻击 (d2DOUBLE_SHOT_CHANCE:
+(2R:追加一次攻击，概率：<color=#0fffff><v1>%</color>
+�n眩晕 (d2STUN_CHANCE2	STUN_TIME:
+2BRJ<color=#0fffff><v1>%</color>几率触发眩晕<color=#0fffff><v2>s</color>
+Qo折扣 (d2DISCOUNT:
+R.降低硬币消耗<color=#0fffff><v1>%</color>
+[p生命偷取 (d2	LIFE_LEAK:
+(R1偷取<color=#0fffff><v1>%</color>伤害的生命
+nq致命一击 (d2DEAD_HIT_CHANCE:
+#<R><color=#0fffff><v1>%</color>几率一击必杀（Boss免疫）
+�r多次射击 (d2MULTI_SHOT_CHANCE2MULTI_SHOT_TARGET:2FdBRX<color=#0fffff><v1>%</color>几率触发额外<color=#0fffff><v2>次</color>目标射击
+�s伤害反弹 (d2DAMAGE_RETURN_CHANCE2DAMAGE_RETURN_PER:
+(2B(2R_<color=#0fffff><v1>%</color>几率触发伤害反弹，造成<color=#0fffff><v2>%</color>伤害
+Zt击退 (d2KNOCK_BACK_CHANCE:
+2R.<color=#0fffff><v1>%</color>几率击退敌人
+�u降速 (d2SLOW_CHANCE2SLOW_PER:
+(2B(2RV<color=#0fffff><v1>%</color>几率降低敌人移动速度<color=#0fffff><v2>%</color>
+�v暴击金币 (d2	CRIT_GOLD2CRIT_GOLD_RATE:
+(2B
+RU<color=#0fffff><v1>%</color>几率在暴击时获得金币<color=#0fffff><v2></color>
+��护盾 (d:(2<B
+Rp获得一个护盾，护盾值为生命值的<color=#0fffff><v1>%</color>，冷却<color=#0fffff><v2>秒</color>
+��战斗卫星 (d:B2<FPdJR�生成最多<color=#0fffff><v1></color>个旋转卫星，每个卫星造成<color=#0fffff><v2>%</color>伤害，眩晕<color=#0fffff><v3>s</color>
+��地雷 (d:B2<FPdJR�生成最多<color=#0fffff><v1>个</color>地雷，每个地雷造成<color=#0fffff><v2>%</color>伤害，伤害范围<color=#0fffff><v3>m</color>
+S�硬币额外收获 (d:R-硬币每秒获得<color=#0fffff><v1></color>
+��复活之翼 (d:(<PdBRg死亡直接复活且恢复<color=#0fffff><v1>%</color>生命，总共<color=#0fffff><v2>次</color>，
+��	阴阳鱼 (d:2<FPdB
+R�一阴一阳围绕基地扩散而出，对碰撞敌人造成攻击<color=#0fffff><v1>%</color>，每<color=#0fffff><v2>秒</color>触发一次
+R�硬币礼包 (d:
+�����R-直接获得<color=#0fffff><v1></color>硬币
+��闪电 (d:2Fdx�BR�攻击范围内随机一个目标召唤一道闪电，造成攻击<color=#0fffff><v1>%</color>伤害，冷却<color=#0fffff><v2>秒</color>
+��火焰冲击 (d:2<FPdB
+R释放火焰冲击波，造成攻击<color=#0fffff><v1>%</color>伤害，并击退敌人，冷却<color=#0fffff><v2>秒</color>
+��钻石攻击加成 (d:2d���BRb钻石的数目<color=#0fffff><v2>%</color>转换为攻击力，最大<color=#0fffff><v1>%</color>
+��钻石攻速加成 (d:2d���BRe钻石的数目<color=#0fffff><v2>%</color>转换为攻击速度，最大<color=#0fffff><v1>%</color>
+��钻石生命加成 (d:2d���B
+R_钻石的数目<color=#0fffff><v2>%</color>转换为生命，最大<color=#0fffff><v1>%</color>
+��激光射线 (d:B2JR�发射激光束<color=#0fffff>x<v1></color>，造成攻击<color=#0fffff><v2>%</color>伤害，冷却<color=#0fffff><v2>秒</color>
